@@ -642,7 +642,7 @@
             "last_commit": "2024-10-27T04:07:37Z",
             "owner": "hustvl",
             "repo": "4DGaussians",
-            "stars": 3886
+            "stars": 3887
           }
         },
         {
@@ -842,7 +842,7 @@
                 "last_commit": "2025-07-29T02:30:55Z",
                 "owner": "nerfstudio-project",
                 "repo": "nerfstudio",
-                "stars": 11906
+                "stars": 11907
               }
             },
             {
@@ -891,7 +891,7 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-19T10:55:43Z",
+                "last_commit": "2026-08-19T11:45:14Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
                 "stars": 3546
@@ -931,7 +931,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9867
+                "stars": 9868
               }
             },
             {
@@ -1092,8 +1092,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:00:50.824Z",
+    "last_updated": "2026-08-19T12:05:33.348Z",
     "original_repository": "pdaicode/awesome-3dgs",
+    "original_repository_id": 706981643,
     "original_repository_sha": "da7cfa4e1f8edc84be629bb0f6de78b962269b7f",
     "enhanced_repository": "enhansome/enhansome-3dgs",
     "enhanced_repository_description": null,
