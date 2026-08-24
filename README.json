@@ -4,6 +4,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering, Bernhard Kerbl",
+          "description": ", Georgios Kopanas, Thomas Leimkühler, George Drettakis, SIGGRAPH 2023 (Best Paper). [📄 Paper (Low Resolution) | 📄 Paper (High Resolution) | 🌐 Project Page | 💻 Code | 🎥 Short Presentation | 🎥 Explanation Video | ]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 662028682,
+            "language": "Python",
+            "last_commit": "2025-10-17T14:28:15Z",
+            "owner": "graphdeco-inria",
+            "repo": "gaussian-splatting",
+            "stars": 23008
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -17,7 +32,7 @@
                 "last_commit": "2025-06-17T14:36:13Z",
                 "owner": "turandai",
                 "repo": "gaussian_surfels",
-                "stars": 682
+                "stars": 683
               }
             },
             {
@@ -47,7 +62,7 @@
                 "last_commit": "2023-12-06T11:46:28Z",
                 "owner": "CVMI-Lab",
                 "repo": "Point-UV-Diffusion",
-                "stars": 217
+                "stars": 218
               }
             },
             {
@@ -359,6 +374,36 @@
             },
             {
               "node_type": "item",
+              "title": "How Far Can We Compress Instant-NGP-Based NeRF? CVPR 2024. [Project",
+              "description": "code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768072985,
+                "language": "Cuda",
+                "last_commit": "2025-11-09T01:54:42Z",
+                "owner": "YihangChen-ee",
+                "repo": "CNC",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775731057,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-21T19:25:00Z",
+                "owner": "pdaicode",
+                "repo": "awesome-dynamic-NeRF",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Shape of Motion: 4D Reconstruction from a Single Video, 2024. [Project",
               "description": "Code]",
               "children": [],
@@ -414,7 +459,7 @@
                 "last_commit": "2024-08-07T14:15:29Z",
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2145
+                "stars": 2147
               }
             },
             {
@@ -523,7 +568,7 @@
               }
             }
           ],
-          "description": "General\nLiterature Review\nNeRF (Improving speed & efficiency)\nDynamic\nLLM & 3D\nSLAM & Sensor Fusion\nCompression & Efficiency",
+          "description": "General\nLiterature Review\nNeRF (Improving speed & efficiency)\nLLM & 3D\nSLAM & Sensor Fusion\nCompression & Efficiency",
           "node_type": "group",
           "title": "2024"
         },
@@ -617,6 +662,36 @@
                 "owner": "JokerYan",
                 "repo": "MS-GS",
                 "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces, [Paper",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725667209,
+                "language": "C++",
+                "last_commit": "2024-05-20T07:50:53Z",
+                "owner": "Asparagus15",
+                "repo": "GaussianShader",
+                "stars": 409
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Splatter Image: Ultra-Fast Single-View 3D Reconstruction, [Paper",
+              "description": "Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733230182,
+                "language": "Python",
+                "last_commit": "2024-08-17T19:39:33Z",
+                "owner": "szymanowiczs",
+                "repo": "splatter-image",
+                "stars": 1106
               }
             }
           ],
@@ -842,7 +917,7 @@
                 "last_commit": "2025-07-29T02:30:55Z",
                 "owner": "nerfstudio-project",
                 "repo": "nerfstudio",
-                "stars": 11927
+                "stars": 11928
               }
             },
             {
@@ -879,7 +954,7 @@
                 "last_commit": "2026-08-20T20:44:25Z",
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5571
+                "stars": 5573
               }
             },
             {
@@ -891,7 +966,7 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-24T11:04:19Z",
+                "last_commit": "2026-08-24T13:24:37Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
                 "stars": 3570
@@ -1054,7 +1129,7 @@
             "last_commit": "2025-10-17T14:28:15Z",
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 23004
+            "stars": 23008
           }
         },
         {
@@ -1092,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:06:18.700Z",
+    "last_updated": "2026-08-24T14:39:21.053Z",
     "original_repository": "pdaicode/awesome-3dgs",
     "original_repository_id": 706981643,
     "original_repository_sha": "da7cfa4e1f8edc84be629bb0f6de78b962269b7f",
