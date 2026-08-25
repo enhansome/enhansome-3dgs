@@ -15,7 +15,7 @@
             "last_commit": "2025-10-17T14:28:15Z",
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 23008
+            "stars": 23011
           }
         },
         {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-06-17T14:36:13Z",
                 "owner": "turandai",
                 "repo": "gaussian_surfels",
-                "stars": 683
+                "stars": 682
               }
             },
             {
@@ -459,7 +459,7 @@
                 "last_commit": "2024-08-07T14:15:29Z",
                 "owner": "muskie82",
                 "repo": "MonoGS",
-                "stars": 2147
+                "stars": 2148
               }
             },
             {
@@ -549,7 +549,7 @@
                 "last_commit": "2025-11-09T01:55:01Z",
                 "owner": "YihangChen-ee",
                 "repo": "HAC",
-                "stars": 335
+                "stars": 336
               }
             },
             {
@@ -586,7 +586,7 @@
                 "last_commit": "2024-09-24T15:13:31Z",
                 "owner": "Anttwo",
                 "repo": "SuGaR",
-                "stars": 3491
+                "stars": 3493
               }
             },
             {
@@ -717,7 +717,7 @@
             "last_commit": "2024-10-27T04:07:37Z",
             "owner": "hustvl",
             "repo": "4DGaussians",
-            "stars": 3892
+            "stars": 3894
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2023-12-22T06:49:05Z",
             "owner": "JonathonLuiten",
             "repo": "Dynamic3DGaussians",
-            "stars": 2292
+            "stars": 2291
           }
         },
         {
@@ -917,7 +917,7 @@
                 "last_commit": "2025-07-29T02:30:55Z",
                 "owner": "nerfstudio-project",
                 "repo": "nerfstudio",
-                "stars": 11928
+                "stars": 11932
               }
             },
             {
@@ -954,7 +954,7 @@
                 "last_commit": "2026-08-20T20:44:25Z",
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5573
+                "stars": 5579
               }
             },
             {
@@ -966,10 +966,10 @@
                 "archived": false,
                 "id": 672651553,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:24:37Z",
+                "last_commit": "2026-08-25T06:23:13Z",
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3570
+                "stars": 3575
               }
             },
             {
@@ -1006,7 +1006,7 @@
                 "last_commit": "2026-08-13T11:24:10Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9892
+                "stars": 9893
               }
             },
             {
@@ -1036,7 +1036,7 @@
                 "last_commit": "2025-10-19T22:58:20Z",
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2868
+                "stars": 2870
               }
             },
             {
@@ -1103,7 +1103,7 @@
                 "last_commit": "2024-08-30T14:32:18Z",
                 "owner": "ReshotAI",
                 "repo": "gaussian-splatting-blender-addon",
-                "stars": 588
+                "stars": 587
               }
             }
           ],
@@ -1129,7 +1129,7 @@
             "last_commit": "2025-10-17T14:28:15Z",
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 23008
+            "stars": 23011
           }
         },
         {
@@ -1144,12 +1144,12 @@
             "last_commit": "2026-08-18T09:59:38Z",
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8830
+            "stars": 8831
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yangjiheng/nerf_and_beyond_docs",
+          "title": "yangjiheng/nerf_and_beyond_docs",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:21.053Z",
+    "last_updated": "2026-08-25T06:29:34.999Z",
     "original_repository": "pdaicode/awesome-3dgs",
     "original_repository_id": 706981643,
     "original_repository_sha": "da7cfa4e1f8edc84be629bb0f6de78b962269b7f",
