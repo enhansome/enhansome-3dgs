@@ -15,7 +15,7 @@
             "last_commit": "2025-10-17T14:28:15Z",
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 23011
+            "stars": 23013
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2024-06-25T03:06:44Z",
             "owner": "ingra14m",
             "repo": "Deformable-3D-Gaussians",
-            "stars": 1253
+            "stars": 1254
           }
         }
       ],
@@ -879,7 +879,7 @@
             "last_commit": "2024-07-04T00:15:42Z",
             "owner": "skhu101",
             "repo": "GauHuman",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -1003,10 +1003,10 @@
                 "archived": false,
                 "id": 707265118,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T11:24:10Z",
+                "last_commit": "2026-08-25T10:22:34Z",
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 9893
+                "stars": 9896
               }
             },
             {
@@ -1129,7 +1129,7 @@
             "last_commit": "2025-10-17T14:28:15Z",
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 23011
+            "stars": 23013
           }
         },
         {
@@ -1167,7 +1167,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:34.999Z",
+    "last_updated": "2026-08-25T11:04:08.561Z",
     "original_repository": "pdaicode/awesome-3dgs",
     "original_repository_id": 706981643,
     "original_repository_sha": "da7cfa4e1f8edc84be629bb0f6de78b962269b7f",
