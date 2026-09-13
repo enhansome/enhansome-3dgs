@@ -19,7 +19,7 @@
             "open_issues": 713,
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 23800,
+            "stars": 23803,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -137,7 +137,7 @@
                 "open_issues": 126,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3290,
+                "stars": 3292,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -985,7 +985,7 @@
                 "open_issues": 32,
                 "owner": "autonomousvision",
                 "repo": "mip-splatting",
-                "stars": 1471,
+                "stars": 1472,
                 "topics": [
                   "3d-reconstruction",
                   "anti-aliasing",
@@ -1385,7 +1385,7 @@
                 "open_issues": 955,
                 "owner": "nerfstudio-project",
                 "repo": "nerfstudio",
-                "stars": 11995,
+                "stars": 11996,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -1445,7 +1445,7 @@
                 "open_issues": 365,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5670,
+                "stars": 5673,
                 "topics": [
                   "gaussian-splatting"
                 ]
@@ -1464,11 +1464,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-12T12:18:24Z",
-                "open_issues": 212,
+                "last_commit": "2026-09-13T10:30:11Z",
+                "open_issues": 213,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3682,
+                "stars": 3684,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1531,10 +1531,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T10:27:33Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 10011,
+                "stars": 10039,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1585,7 +1585,7 @@
                 "open_issues": 97,
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2888,
+                "stars": 2889,
                 "topics": [
                   "3d-gaussian-splatting",
                   "gaussian-splatting",
@@ -1669,7 +1669,7 @@
                 "open_issues": 43,
                 "owner": "aras-p",
                 "repo": "UnityGaussianSplatting",
-                "stars": 3402,
+                "stars": 3403,
                 "topics": [
                   "gaussian-splatting",
                   "unity"
@@ -1725,7 +1725,7 @@
             "open_issues": 713,
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 23800,
+            "stars": 23803,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -1787,7 +1787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:44:17.763Z",
+    "last_updated": "2026-09-13T14:41:05.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curried list of recent literature of 3D Gaussians",
