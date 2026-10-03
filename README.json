@@ -19,7 +19,7 @@
             "open_issues": 716,
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 24067,
+            "stars": 24069,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -33,7 +33,7 @@
             {
               "node_type": "item",
               "title": "High-quality Surface Reconstruction using Gaussian Surfels. [Paper",
-              "description": "Code]",
+              "description": "turandai/gaussian_surfels",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +149,7 @@
             {
               "node_type": "item",
               "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, ECCV2024. [Paper",
-              "description": "Project]",
+              "description": "donydchen/mvsplat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -176,7 +176,7 @@
             {
               "node_type": "item",
               "title": "LangSplat: 3D Language Gaussian Splatting, CVPR 2024 (Highlight). [Project",
-              "description": "Code]",
+              "description": "minghanqin/LangSplat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -202,7 +202,7 @@
             {
               "node_type": "item",
               "title": "Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers, CVPR 2024. [Project",
-              "description": "Code]",
+              "description": "VAST-AI-Research/TriplaneGaussian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -223,7 +223,7 @@
             {
               "node_type": "item",
               "title": "GaussianPro: 3D Gaussian Splatting with Progressive Propagation, ICML 2024. [Paper",
-              "description": "Project]",
+              "description": "kcheng1021/GaussianPro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -265,7 +265,7 @@
             {
               "node_type": "item",
               "title": "On Scaling Up 3D Gaussian Splatting Training, 2024. [Project",
-              "description": "Code]",
+              "description": "nyu-systems/Grendel-GS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,7 +286,7 @@
             {
               "node_type": "item",
               "title": "GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis, CVPR 2024. [Project",
-              "description": "Code]",
+              "description": "aipixel/GPS-Gaussian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -307,7 +307,7 @@
             {
               "node_type": "item",
               "title": "MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo, ECCV 2024. [Project",
-              "description": "Code]",
+              "description": "TQTQliu/MVSGaussian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -334,7 +334,7 @@
             {
               "node_type": "item",
               "title": "GS-IR: 3D Gaussian Splatting for Inverse Rendering, CVPR 2024. [Project",
-              "description": "Code]",
+              "description": "lzhnb/GS-IR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +347,7 @@
                 "open_issues": 23,
                 "owner": "lzhnb",
                 "repo": "GS-IR",
-                "stars": 451,
+                "stars": 452,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:06.569Z"
@@ -355,7 +355,7 @@
             {
               "node_type": "item",
               "title": "Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images, I3D 2024. [Paper",
-              "description": "Code]",
+              "description": "Chaphlagical/Deblur-GS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces, CVPR 2024. [Project",
-              "description": "Code]",
+              "description": "Asparagus15/GaussianShader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -397,7 +397,7 @@
             {
               "node_type": "item",
               "title": "bsGS: Recovering Fine Details for 3D Gaussian Splatting, ACM MM 2024. Code",
-              "description": null,
+              "description": "Asparagus15/GaussianShader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -418,7 +418,7 @@
             {
               "node_type": "item",
               "title": "Deblurring 3D Gaussian Splatting, ECCV 2024. [Project",
-              "description": "Code]",
+              "description": "benhenryL/Deblurring-3D-Gaussian-Splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -439,7 +439,7 @@
             {
               "node_type": "item",
               "title": "Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Image, CVPRW 2024 (3DMV). [Project",
-              "description": "Code]",
+              "description": "robot0321/DepthRegularizedGS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -460,7 +460,7 @@
             {
               "node_type": "item",
               "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections, 2024. [Project",
-              "description": "Code]",
+              "description": "EastbeanZhang/Gaussian-Wild",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -481,7 +481,7 @@
             {
               "node_type": "item",
               "title": "Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting, 2024. [Project",
-              "description": "Code]",
+              "description": "ingra14m/Specular-Gaussians",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -502,7 +502,7 @@
             {
               "node_type": "item",
               "title": "DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark, [Paper",
-              "description": "Project]",
+              "description": "tyz1030/darkgs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -523,7 +523,7 @@
             {
               "node_type": "item",
               "title": "GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting, [Paper",
-              "description": "Code]",
+              "description": "HaroldChen19/GaussianVTON",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -544,7 +544,7 @@
             {
               "node_type": "item",
               "title": "How Far Can We Compress Instant-NGP-Based NeRF? CVPR 2024. [Project",
-              "description": "code]",
+              "description": "YihangChen-ee/CNC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -570,7 +570,7 @@
             {
               "node_type": "item",
               "title": "Dynamic",
-              "description": null,
+              "description": "pdaicode/awesome-dynamic-NeRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -599,7 +599,7 @@
             {
               "node_type": "item",
               "title": "Shape of Motion: 4D Reconstruction from a Single Video, 2024. [Project",
-              "description": "Code]",
+              "description": "vye16/shape-of-motion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -620,7 +620,7 @@
             {
               "node_type": "item",
               "title": "CoGS : Controllable Gaussian Splatting, CVPR 2024. [Project",
-              "description": "Code]",
+              "description": "Heng14/CoGS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -641,7 +641,7 @@
             {
               "node_type": "item",
               "title": "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, CVPR 2024. [Paper",
-              "description": "Code]",
+              "description": "spla-tam/SplaTAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -668,7 +668,7 @@
             {
               "node_type": "item",
               "title": "Gaussian Splatting SLAM, CVPR 2024 [Paper",
-              "description": "Code]",
+              "description": "muskie82/MonoGS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -695,7 +695,7 @@
             {
               "node_type": "item",
               "title": "Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting, [Paper",
-              "description": "Code]",
+              "description": "VladimirYugay/Gaussian-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -722,7 +722,7 @@
             {
               "node_type": "item",
               "title": "Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, [Paper",
-              "description": "Code]",
+              "description": "HuajianUP/Photo-SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "RGBD GS-ICP SLAM, [Paper",
-              "description": "Code]",
+              "description": "Lab-of-AI-and-Robotics/GS_ICP_SLAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "GaussianPro: 3D Gaussian Splatting with Progressive Propagation, [Paper",
-              "description": "Code]",
+              "description": "kcheng1021/GaussianPro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -785,7 +785,7 @@
             {
               "node_type": "item",
               "title": "Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis, CVPR 2024. [Project",
-              "description": "Code]",
+              "description": "KeKsBoTer/c3dgs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -813,7 +813,7 @@
             {
               "node_type": "item",
               "title": "HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression, [Paper",
-              "description": "Code]",
+              "description": "YihangChen-ee/HAC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -839,7 +839,7 @@
             {
               "node_type": "item",
               "title": "SUNDAE: Spectrally Pruned Gaussian Fields with Neural Compensation, [Paper",
-              "description": "Code]",
+              "description": "RunyiYang/SUNDAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -867,7 +867,7 @@
             {
               "node_type": "item",
               "title": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, 2023. [Paper",
-              "description": "Code]",
+              "description": "Anttwo/SuGaR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -898,7 +898,7 @@
             {
               "node_type": "item",
               "title": "LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS, 2023. [Paper",
-              "description": "Code]",
+              "description": "VITA-Group/LightGaussian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -925,7 +925,7 @@
             {
               "node_type": "item",
               "title": "Compact 3D Gaussian Representation for Radiance Field, [Paper",
-              "description": "Code]",
+              "description": "maincold2/Compact-3DGS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -946,7 +946,7 @@
             {
               "node_type": "item",
               "title": "Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization, [Paper",
-              "description": "Code]",
+              "description": "UCDvision/compact3d",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -972,7 +972,7 @@
             {
               "node_type": "item",
               "title": "Mip-Splatting: Alias-free 3D Gaussian Splatting, [Paper",
-              "description": "Code]",
+              "description": "autonomousvision/mip-splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -999,7 +999,7 @@
             {
               "node_type": "item",
               "title": "Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering, [Paper",
-              "description": "Code]",
+              "description": "JokerYan/MS-GS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1020,7 +1020,7 @@
             {
               "node_type": "item",
               "title": "GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces, [Paper",
-              "description": "Code]",
+              "description": "Asparagus15/GaussianShader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1041,7 +1041,7 @@
             {
               "node_type": "item",
               "title": "Splatter Image: Ultra-Fast Single-View 3D Reconstruction, [Paper",
-              "description": "Code]",
+              "description": "szymanowiczs/splatter-image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1272,7 +1272,7 @@
         {
           "node_type": "item",
           "title": "DreamGaussian4D: Generative 4D Gaussian Splatting, [Paper",
-          "description": "Code]",
+          "description": "jiawei-ren/dreamgaussian4d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1295,7 +1295,7 @@
         {
           "node_type": "item",
           "title": "Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting, [Paper",
-          "description": "Code]",
+          "description": "yangxiaofeng/LODS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1343,7 +1343,7 @@
         {
           "node_type": "item",
           "title": "Gaussian Shell Maps for Efficient 3D Human Generation, [Paper",
-          "description": "Code]",
+          "description": "computational-imaging/GSM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1372,7 +1372,7 @@
             {
               "node_type": "item",
               "title": "NeRFStudio",
-              "description": null,
+              "description": "nerfstudio-project/nerfstudio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1382,7 +1382,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-29T02:30:55Z",
-                "open_issues": 959,
+                "open_issues": 963,
                 "owner": "nerfstudio-project",
                 "repo": "nerfstudio",
                 "stars": 12043,
@@ -1404,7 +1404,7 @@
             {
               "node_type": "item",
               "title": "Camenduru",
-              "description": null,
+              "description": "camenduru/gaussian-splatting-colab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1417,7 +1417,7 @@
                 "open_issues": 6,
                 "owner": "camenduru",
                 "repo": "gaussian-splatting-colab",
-                "stars": 514,
+                "stars": 515,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:06.569Z"
@@ -1432,7 +1432,7 @@
             {
               "node_type": "item",
               "title": "nerfstudio: python/CUDA",
-              "description": null,
+              "description": "nerfstudio-project/gsplat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1442,10 +1442,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T07:16:19Z",
-                "open_issues": 378,
+                "open_issues": 379,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5746,
+                "stars": 5747,
                 "topics": [
                   "gaussian-splatting"
                 ]
@@ -1455,7 +1455,7 @@
             {
               "node_type": "item",
               "title": "fast: C++/CUDA",
-              "description": null,
+              "description": "MrNeRF/LichtFeld-Studio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1464,11 +1464,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T15:39:31Z",
-                "open_issues": 238,
+                "last_commit": "2026-10-03T04:19:50Z",
+                "open_issues": 224,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3795,
+                "stars": 3801,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1482,7 +1482,7 @@
             {
               "node_type": "item",
               "title": "Taichi 3D Gaussian Splatting",
-              "description": null,
+              "description": "wanmeihuali/taichi_3d_gaussian_splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1521,7 +1521,7 @@
             {
               "node_type": "item",
               "title": "Playcanvas",
-              "description": null,
+              "description": "playcanvas/supersplat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1534,7 +1534,7 @@
                 "open_issues": 115,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 10292,
+                "stars": 10294,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1551,7 +1551,7 @@
             {
               "node_type": "item",
               "title": "WebGL Viewer 1",
-              "description": null,
+              "description": "antimatter15/splat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1572,7 +1572,7 @@
             {
               "node_type": "item",
               "title": "Three.js",
-              "description": null,
+              "description": "mkkellogg/GaussianSplats3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1600,7 +1600,7 @@
             {
               "node_type": "item",
               "title": "WebGL Viewer 2",
-              "description": null,
+              "description": "cvlab-epfl/gaussian-splatting-web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1621,7 +1621,7 @@
             {
               "node_type": "item",
               "title": "A-Frame",
-              "description": null,
+              "description": "quadjr/aframe-gaussian-splatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1656,7 +1656,7 @@
             {
               "node_type": "item",
               "title": "Unity Implementation",
-              "description": null,
+              "description": "aras-p/UnityGaussianSplatting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1680,7 +1680,7 @@
             {
               "node_type": "item",
               "title": "Blender",
-              "description": null,
+              "description": "ReshotAI/gaussian-splatting-blender-addon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1712,7 +1712,7 @@
         {
           "node_type": "item",
           "title": "Gaussian Splatting",
-          "description": null,
+          "description": "graphdeco-inria/gaussian-splatting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1725,7 +1725,7 @@
             "open_issues": 716,
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 24067,
+            "stars": 24069,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -1737,7 +1737,7 @@
         {
           "node_type": "item",
           "title": "MrNeRF",
-          "description": null,
+          "description": "MrNeRF/awesome-3D-gaussian-splatting",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1764,7 +1764,7 @@
         {
           "node_type": "item",
           "title": "yangjiheng/nerf_and_beyond_docs",
-          "description": null,
+          "description": "yangjiheng/nerf_and_beyond_docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1777,7 +1777,7 @@
             "open_issues": 0,
             "owner": "yangjiheng",
             "repo": "nerf_and_beyond_docs",
-            "stars": 1164,
+            "stars": 1165,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:06.569Z"
@@ -1787,7 +1787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:21:52.531Z",
+    "last_updated": "2026-10-03T04:21:07.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curried list of recent literature of 3D Gaussians",
