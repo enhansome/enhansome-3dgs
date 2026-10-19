@@ -19,7 +19,7 @@
             "open_issues": 718,
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 24237,
+            "stars": 24261,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -46,7 +46,7 @@
                 "open_issues": 7,
                 "owner": "turandai",
                 "repo": "gaussian_surfels",
-                "stars": 685,
+                "stars": 686,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:06.569Z"
@@ -137,7 +137,7 @@
                 "open_issues": 125,
                 "owner": "hbb1",
                 "repo": "2d-gaussian-splatting",
-                "stars": 3313,
+                "stars": 3314,
                 "topics": [
                   "gaussian-splatting",
                   "novel-view-synthesis",
@@ -162,7 +162,7 @@
                 "open_issues": 48,
                 "owner": "donydchen",
                 "repo": "mvsplat",
-                "stars": 1313,
+                "stars": 1316,
                 "topics": [
                   "cost-volume",
                   "eccv2024",
@@ -278,7 +278,7 @@
                 "open_issues": 36,
                 "owner": "nyu-systems",
                 "repo": "Grendel-GS",
-                "stars": 689,
+                "stars": 690,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:06.569Z"
@@ -347,7 +347,7 @@
                 "open_issues": 23,
                 "owner": "lzhnb",
                 "repo": "GS-IR",
-                "stars": 453,
+                "stars": 454,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:06.569Z"
@@ -654,7 +654,7 @@
                 "open_issues": 53,
                 "owner": "spla-tam",
                 "repo": "SplaTAM",
-                "stars": 2212,
+                "stars": 2213,
                 "topics": [
                   "computer-vision",
                   "cvpr2024",
@@ -880,7 +880,7 @@
                 "open_issues": 187,
                 "owner": "Anttwo",
                 "repo": "SuGaR",
-                "stars": 3539,
+                "stars": 3538,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1086,7 +1086,7 @@
             "open_issues": 135,
             "owner": "hustvl",
             "repo": "4DGaussians",
-            "stars": 3979,
+            "stars": 3981,
             "topics": [
               "3d",
               "computer-vision",
@@ -1187,7 +1187,7 @@
             "open_issues": 134,
             "owner": "dreamgaussian",
             "repo": "dreamgaussian",
-            "stars": 4359,
+            "stars": 4360,
             "topics": [
               "image-to-3d",
               "text-to-3d"
@@ -1385,7 +1385,7 @@
                 "open_issues": 965,
                 "owner": "nerfstudio-project",
                 "repo": "nerfstudio",
-                "stars": 12081,
+                "stars": 12084,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -1442,10 +1442,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T07:16:19Z",
-                "open_issues": 398,
+                "open_issues": 399,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5804,
+                "stars": 5810,
                 "topics": [
                   "gaussian-splatting"
                 ]
@@ -1464,11 +1464,11 @@
                 "id": 672651553,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-18T14:03:38Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-19T15:48:26Z",
+                "open_issues": 228,
                 "owner": "MrNeRF",
                 "repo": "LichtFeld-Studio",
-                "stars": 3877,
+                "stars": 3882,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1531,10 +1531,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T15:15:46Z",
-                "open_issues": 122,
+                "open_issues": 121,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 10417,
+                "stars": 10426,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -1585,7 +1585,7 @@
                 "open_issues": 94,
                 "owner": "mkkellogg",
                 "repo": "GaussianSplats3D",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "3d-gaussian-splatting",
                   "gaussian-splatting",
@@ -1669,7 +1669,7 @@
                 "open_issues": 43,
                 "owner": "aras-p",
                 "repo": "UnityGaussianSplatting",
-                "stars": 3433,
+                "stars": 3434,
                 "topics": [
                   "gaussian-splatting",
                   "unity"
@@ -1725,7 +1725,7 @@
             "open_issues": 718,
             "owner": "graphdeco-inria",
             "repo": "gaussian-splatting",
-            "stars": 24237,
+            "stars": 24261,
             "topics": [
               "computer-graphics",
               "computer-vision",
@@ -1750,7 +1750,7 @@
             "open_issues": 8,
             "owner": "MrNeRF",
             "repo": "awesome-3D-gaussian-splatting",
-            "stars": 8950,
+            "stars": 8955,
             "topics": [
               "3d-gaussian-splatting",
               "3dgs",
@@ -1787,7 +1787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:09:35.971Z",
+    "last_updated": "2026-10-19T17:09:36.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curried list of recent literature of 3D Gaussians",
