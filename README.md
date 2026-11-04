@@ -33,7 +33,7 @@ Other resources:
 
 * **3D Gaussian Splatting for Real-Time Radiance Field Rendering**,
   [Bernhard Kerbl](https://scholar.google.at/citations?user=jeasMB0AAAAJ\&hl=en), [Georgios Kopanas](https://scholar.google.com/citations?user=QLWLLHMAAAAJ), [Thomas Leimkühler](https://www-sop.inria.fr/members/Thomas-Sebastian.Leimkuhler/), [George Drettakis](https://scholar.google.fr/citations?user=LGo5J4IAAAAJ\&hl=en), SIGGRAPH 2023 (Best Paper).
-  \[[📄 Paper (Low Resolution)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf) | [📄 Paper (High Resolution)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [🌐 Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [💻 Code](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 24,406 | 🐛 721 | 🌐 Python | 📅 2025-10-17 | [🎥 Short Presentation](https://youtu.be/T_kXY43VZnk?si=DrkbDFxQAv5scQNT) | [🎥 Explanation Video](https://www.youtube.com/live/xgwvU7S0K-k?si=edF8NkYtsRbgTbKi) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdaicode/awesome-3dgs/blob/master/colabs/gaussian_splatting_colab.ipynb)]
+  \[[📄 Paper (Low Resolution)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf) | [📄 Paper (High Resolution)](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [🌐 Project Page](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [💻 Code](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 24,417 | 🐛 721 | 🌐 Python | 📅 2025-10-17 | [🎥 Short Presentation](https://youtu.be/T_kXY43VZnk?si=DrkbDFxQAv5scQNT) | [🎥 Explanation Video](https://www.youtube.com/live/xgwvU7S0K-k?si=edF8NkYtsRbgTbKi) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdaicode/awesome-3dgs/blob/master/colabs/gaussian_splatting_colab.ipynb)]
 
 ### Other 3D Papers
 
@@ -46,7 +46,7 @@ Other resources:
 
 **General**
 
-* `[+]` [2DGS](./colabs/2DGS.ipynb): 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, SIGGRAPH 2024. \[[Paper](https://arxiv.org/abs/2403.17888) | [Project](https://surfsplatting.github.io/) | [Code](https://github.com/hbb1/2d-gaussian-splatting) ⭐ 3,328 | 🐛 125 | 🌐 Python | 📅 2026-08-25]
+* `[+]` [2DGS](./colabs/2DGS.ipynb): 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, SIGGRAPH 2024. \[[Paper](https://arxiv.org/abs/2403.17888) | [Project](https://surfsplatting.github.io/) | [Code](https://github.com/hbb1/2d-gaussian-splatting) ⭐ 3,330 | 🐛 125 | 🌐 Python | 📅 2026-08-25]
 
 * MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, ECCV2024. \[[Paper](https://arxiv.org/pdf/2403.14627) | [Project](https://github.com/donydchen/mvsplat) ⭐ 1,321 | 🐛 48 | 🌐 Python | 📅 2026-05-06]
 
@@ -56,9 +56,9 @@ Other resources:
 
 * GaussianPro: 3D Gaussian Splatting with Progressive Propagation, ICML 2024. \[[Paper](https://arxiv.org/abs/2402.14650) | [Project](https://github.com/kcheng1021/GaussianPro) ⭐ 848 | 🐛 53 | 🌐 Python | 📅 2025-08-24]
 
-* COLMAP-Free 3D Gaussian Splatting, CVPR2024. \[[Paper](https://arxiv.org/abs/2312.07504) | [Project](https://oasisyang.github.io/colmap-free-3dgs/) | [Code](https://github.com/NVlabs/CF-3DGS) ⭐ 795 | 🐛 46 | 🌐 Python | 📅 2024-08-22]
+* COLMAP-Free 3D Gaussian Splatting, CVPR2024. \[[Paper](https://arxiv.org/abs/2312.07504) | [Project](https://oasisyang.github.io/colmap-free-3dgs/) | [Code](https://github.com/NVlabs/CF-3DGS) ⭐ 796 | 🐛 46 | 🌐 Python | 📅 2024-08-22]
 
-* On Scaling Up 3D Gaussian Splatting Training, 2024. \[[Project](https://daohanlu.github.io/scaling-up-3dgs/) | [Code](https://github.com/nyu-systems/Grendel-GS) ⭐ 691 | 🐛 36 | 🌐 Python | 📅 2025-09-24]
+* On Scaling Up 3D Gaussian Splatting Training, 2024. \[[Project](https://daohanlu.github.io/scaling-up-3dgs/) | [Code](https://github.com/nyu-systems/Grendel-GS) ⭐ 692 | 🐛 36 | 🌐 Python | 📅 2025-09-24]
 
 * GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis, CVPR 2024. \[[Project](https://shunyuanzheng.github.io/GPS-Gaussian) | [Code](https://github.com/aipixel/GPS-Gaussian) ⭐ 631 | 🐛 48 | 🌐 Python | 📅 2025-07-02]
 
@@ -131,10 +131,10 @@ Other resources:
 **SLAM & Sensor Fusion**
 
 * SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, CVPR 2024. \[[Paper](https://arxiv.org/pdf/2312.02126.pdf) | [Code](https://github.com/spla-tam/SplaTAM) ⭐ 2,218 | 🐛 53 | 🌐 Python | 📅 2024-06-19]
-* Gaussian Splatting SLAM, CVPR 2024 \[[Paper](https://arxiv.org/abs/2312.06741) | [Code](https://github.com/muskie82/MonoGS) ⭐ 2,189 | 🐛 101 | 🌐 Python | 📅 2024-08-07]
+* Gaussian Splatting SLAM, CVPR 2024 \[[Paper](https://arxiv.org/abs/2312.06741) | [Code](https://github.com/muskie82/MonoGS) ⭐ 2,190 | 🐛 101 | 🌐 Python | 📅 2024-08-07]
 * Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting, \[[Paper](https://ivi.fnwi.uva.nl/cv/paper/GaussianSLAM.pdf) | [Code](https://github.com/VladimirYugay/Gaussian-SLAM) ⭐ 1,188 | 🐛 0 | 🌐 Python | 📅 2024-07-03]
-* Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, \[[Paper](https://arxiv.org/pdf/2311.16728.pdf) | [Code](https://github.com/HuajianUP/Photo-SLAM) ⭐ 780 | 🐛 38 | 🌐 C++ | 📅 2024-06-12]
-* RGBD GS-ICP SLAM, \[[Paper](https://arxiv.org/abs/2403.12550) | [Code](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) ⭐ 541 | 🐛 37 | 🌐 C++ | 📅 2026-06-20]
+* Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, \[[Paper](https://arxiv.org/pdf/2311.16728.pdf) | [Code](https://github.com/HuajianUP/Photo-SLAM) ⭐ 781 | 🐛 38 | 🌐 C++ | 📅 2024-06-12]
+* RGBD GS-ICP SLAM, \[[Paper](https://arxiv.org/abs/2403.12550) | [Code](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM) ⭐ 542 | 🐛 37 | 🌐 C++ | 📅 2026-06-20]
 
 **Compression & Efficiency**
 
@@ -149,7 +149,7 @@ Other resources:
 
 Speed & Efficiency
 
-* `[+]` SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, 2023. \[[Paper](https://arxiv.org/abs/2311.12775) | [Code](https://github.com/Anttwo/SuGaR) ⭐ 3,553 | 🐛 187 | 🌐 C++ | 📅 2024-09-24]
+* `[+]` SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, 2023. \[[Paper](https://arxiv.org/abs/2311.12775) | [Code](https://github.com/Anttwo/SuGaR) ⭐ 3,554 | 🐛 187 | 🌐 C++ | 📅 2024-09-24]
 * `[+]` LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS, 2023. \[[Paper](https://arxiv.org/abs/2311.17245) | [Code](https://github.com/VITA-Group/LightGaussian) ⭐ 826 | 🐛 19 | 🌐 Python | 📅 2024-12-30]
 * Compact 3D Gaussian Representation for Radiance Field, \[[Paper](https://github.com/maincold2/Compact-3DGS/blob/main) ⭐ 502 | 🐛 14 | 🌐 Python | 📅 2024-09-27 | [Code](https://github.com/maincold2/Compact-3DGS) ⭐ 502 | 🐛 14 | 🌐 Python | 📅 2024-09-27]
 * Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization, \[[Paper](https://arxiv.org/abs/2311.18159) | [Code](https://github.com/UCDvision/compact3d) ⭐ 229 | 🐛 8 | 🌐 Python | 📅 2024-09-26]
@@ -177,7 +177,7 @@ Others
 
 ## 2. Dynamic 3D Gaussian Splatting:
 
-* `[+]` 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering, \[[Paper](https://arxiv.org/pdf/2310.08528.pdf) | [Project Page](https://guanjunwu.github.io/4dgs/) | [Code](https://github.com/hustvl/4DGaussians) ⭐ 4,011 | 🐛 135 | 🌐 Jupyter Notebook | 📅 2024-10-27 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdaicode/awesome-3dgs/blob/master/colabs/4DGaussians.ipynb)]
+* `[+]` 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering, \[[Paper](https://arxiv.org/pdf/2310.08528.pdf) | [Project Page](https://guanjunwu.github.io/4dgs/) | [Code](https://github.com/hustvl/4DGaussians) ⭐ 4,014 | 🐛 135 | 🌐 Jupyter Notebook | 📅 2024-10-27 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdaicode/awesome-3dgs/blob/master/colabs/4DGaussians.ipynb)]
 * Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis, \[[Paper](https://dynamic3dgaussians.github.io/paper.pdf) | [Project Page](https://dynamic3dgaussians.github.io/) | [Code](https://github.com/JonathonLuiten/Dynamic3DGaussians) ⭐ 2,308 | 🐛 32 | 🌐 Python | 📅 2023-12-22 | [Explanation Video](https://www.youtube.com/live/hDuy1TgD8I4?si=6oGN0IYnPRxOibpg)]
 * `[+]` 4K4D: Real-Time 4D View Synthesis at 4K Resolution. \[[Paper](https://drive.google.com/file/d/1Y-C6ASIB8ofvcZkyZ_Vp-a2TtbiPw1Yx/view?usp=sharing) | [Project Page](https://zju3dv.github.io/4k4d/) | [Code (Inference)](https://github.com/zju3dv/4K4D) ⭐ 1,820 | 🐛 47 | 🌐 Python | 📅 2026-09-15]]
 * Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction, \[[Paper](https://arxiv.org/pdf/2309.13101.pdf) | [Project Page](https://ingra14m.github.io/Deformable-Gaussians/) | [Code](https://github.com/ingra14m/Deformable-3D-Gaussians) ⭐ 1,265 | 🐛 64 | 🌐 Python | 📅 2024-06-25]
@@ -189,8 +189,8 @@ Others
 Papers with shared code are ranked higher in this list
 
 * DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation, [Paper](https://arxiv.org/pdf/2309.16653.pdf) | [Project Page](https://dreamgaussian.github.io/) | [Code](https://github.com/dreamgaussian/dreamgaussian) ⭐ 4,362 | 🐛 134 | 🌐 Python | 📅 2024-01-02 | [Explanation Video](https://www.youtube.com/live/l956ye13F8M?si=ZkvFL_lsY5OQUB7e)]
-* Text-to-3D using Gaussian Splatting, \[[📄 Paper](https://arxiv.org/pdf/2309.16585.pdf) | [Project Page](https://gsgen3d.github.io/) | [Code](https://github.com/gsgen3d/gsgen) ⭐ 845 | 🐛 37 | 🌐 Python | 📅 2024-01-07 | [Explanation Video](https://www.youtube.com/live/l956ye13F8M?si=ZkvFL_lsY5OQUB7e)]
-* Gsgen: Text-to-3D using Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2309.16585) | [Project Page](https://gsgen3d.github.io/) | [Code](https://github.com/gsgen3d/gsgen) ⭐ 845 | 🐛 37 | 🌐 Python | 📅 2024-01-07]
+* Text-to-3D using Gaussian Splatting, \[[📄 Paper](https://arxiv.org/pdf/2309.16585.pdf) | [Project Page](https://gsgen3d.github.io/) | [Code](https://github.com/gsgen3d/gsgen) ⭐ 846 | 🐛 37 | 🌐 Python | 📅 2024-01-07 | [Explanation Video](https://www.youtube.com/live/l956ye13F8M?si=ZkvFL_lsY5OQUB7e)]
+* Gsgen: Text-to-3D using Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2309.16585) | [Project Page](https://gsgen3d.github.io/) | [Code](https://github.com/gsgen3d/gsgen) ⭐ 846 | 🐛 37 | 🌐 Python | 📅 2024-01-07]
 * GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors, \[[Paper](https://arxiv.org/pdf/2310.08529.pdf) | [Project Page](https://taoranyi.com/gaussiandreamer/) | [Code](https://github.com/hustvl/GaussianDreamer) ⭐ 832 | 🐛 18 | 🌐 Python | 📅 2025-01-13]
 * DreamGaussian4D: Generative 4D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2312.17142) | [Code](https://github.com/jiawei-ren/dreamgaussian4d) ⭐ 620 | 🐛 11 | 🌐 Python | 📅 2024-06-10]
 * Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting, \[[Paper](https://arxiv.org/abs/2312.04820) | [Code](https://github.com/yangxiaofeng/LODS) ⭐ 72 | 🐛 1 | 🌐 Python | 📅 2024-07-11]
@@ -217,27 +217,27 @@ Papers with shared code are ranked higher in this list
 
 ### Colab
 
-* [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio/blob/main/colab/demo.ipynb) ⭐ 12,143 | 🐛 967 | 🌐 Python | 📅 2025-07-29
+* [NeRFStudio](https://github.com/nerfstudio-project/nerfstudio/blob/main/colab/demo.ipynb) ⭐ 12,150 | 🐛 967 | 🌐 Python | 📅 2025-07-29
 * [Camenduru](https://github.com/camenduru/gaussian-splatting-colab) ⭐ 514 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2023-12-19
 
 ### Training
 
-* [nerfstudio: python/CUDA](https://github.com/nerfstudio-project/gsplat) ⭐ 5,860 | 🐛 403 | 🌐 Python | 📅 2026-09-19
-* [fast: C++/CUDA](https://github.com/MrNeRF/gaussian-splatting-cuda) ⭐ 3,956 | 🐛 226 | 🌐 C++ | 📅 2026-11-03
+* [nerfstudio: python/CUDA](https://github.com/nerfstudio-project/gsplat) ⭐ 5,863 | 🐛 403 | 🌐 Python | 📅 2026-09-19
+* [fast: C++/CUDA](https://github.com/MrNeRF/gaussian-splatting-cuda) ⭐ 3,964 | 🐛 228 | 🌐 C++ | 📅 2026-11-04
 * [Taichi 3D Gaussian Splatting](https://github.com/wanmeihuali/taichi_3d_gaussian_splatting) ⭐ 759 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2024-03-12
 
 ### Viewers
 
-* [Playcanvas](https://github.com/playcanvas/supersplat) ⭐ 10,580 | 🐛 119 | 🌐 TypeScript | 📅 2026-10-31
+* [Playcanvas](https://github.com/playcanvas/supersplat) ⭐ 10,591 | 🐛 120 | 🌐 TypeScript | 📅 2026-10-31
 * [WebGL Viewer 1](https://github.com/antimatter15/splat) ⭐ 3,083 | 🐛 38 | 🌐 JavaScript | 📅 2025-11-16
-* [Three.js](https://github.com/mkkellogg/GaussianSplats3D) ⭐ 2,938 | 🐛 94 | 🌐 JavaScript | 📅 2025-10-19
+* [Three.js](https://github.com/mkkellogg/GaussianSplats3D) ⭐ 2,939 | 🐛 94 | 🌐 JavaScript | 📅 2025-10-19
 * [WebGL Viewer 2](https://github.com/cvlab-epfl/gaussian-splatting-web) ⭐ 671 | 🐛 12 | 🌐 TypeScript | 📅 2024-03-13
 * [A-Frame](https://github.com/quadjr/aframe-gaussian-splatting) ⭐ 228 | 🐛 9 | 🌐 JavaScript | 📅 2023-12-20
 * [Luma AI (WebGL)](https://lumalabs.ai/luma-web-library)
 
 ### Game Engines
 
-* [Unity Implementation](https://github.com/aras-p/UnityGaussianSplatting) ⭐ 3,458 | 🐛 23 | 🌐 C# | 📅 2026-11-02
+* [Unity Implementation](https://github.com/aras-p/UnityGaussianSplatting) ⭐ 3,459 | 🐛 23 | 🌐 C# | 📅 2026-11-02
 * [Blender](https://github.com/ReshotAI/gaussian-splatting-blender-addon) ⭐ 592 | 🐛 31 | 🌐 Python | 📅 2024-08-30
 
 ## 6. Documents
@@ -260,11 +260,11 @@ Papers with shared code are ranked higher in this list
 
 ## Reference
 
-* [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 24,406 | 🐛 721 | 🌐 Python | 📅 2025-10-17
-* [MrNeRF](https://github.com/MrNeRF/awesome-3D-gaussian-splatting/tree/main) ⭐ 8,985 | 🐛 9 | 🌐 Python | 📅 2026-10-04
+* [Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting) ⭐ 24,417 | 🐛 721 | 🌐 Python | 📅 2025-10-17
+* [MrNeRF](https://github.com/MrNeRF/awesome-3D-gaussian-splatting/tree/main) ⭐ 8,986 | 🐛 9 | 🌐 Python | 📅 2026-10-04
 * <https://github.com/yangjiheng/nerf_and_beyond_docs> ⭐ 1,165 | 🐛 0 | 📅 2024-12-26
 * <https://dellaert.github.io/NeRF22/>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
